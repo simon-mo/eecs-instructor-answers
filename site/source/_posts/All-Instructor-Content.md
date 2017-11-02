@@ -1,10 +1,9 @@
 ---
-title: All Instructor Content on EECS101 Piazza
-date: 2017-11-02 07:40:40
+title: All Instructor Content
+date: 2017-11-02 08:06:31
 tags:
 toc: true
 ---
-
 
 ## Should people interested in systems take 189?
 

@@ -1,5 +1,3 @@
-[TOC]
-
 ## Should people interested in systems take 189?
 
 2017-10-25
@@ -112,9 +110,9 @@ Have taken Stat 134, Math 110 and CS 188 and looking to take CS 189 next
 semester. I know Professor Sahai has repeatedly stressed that taking 126, 127
 and 170 is ideal before 189. My questions are:
 
-    1. Is my preparation enough for 189? or should I take 127 and 170 next semester first before I go for 189 (I plan to take 127 and 170 eventually anyways but don’t want to miss out Professor Sahai’s 189)
-    2. How exactly does taking 127 and 170 before 189 benefit me in learning 189? Since it seems like many people take 127 after 189. 
-    3. Does it make sense to take 126 after Stat 134? Or should I just take Stat 150/135
+  1. Is my preparation enough for 189? or should I take 127 and 170 next semester first before I go for 189 (I plan to take 127 and 170 eventually anyways but don’t want to miss out Professor Sahai’s 189)
+  2. How exactly does taking 127 and 170 before 189 benefit me in learning 189? Since it seems like many people take 127 after 189. 
+  3. Does it make sense to take 126 after Stat 134? Or should I just take Stat 150/135
 
 Thanks!
 
@@ -191,32 +189,32 @@ advice.
 
 Option 1:
 
-    1. CS170 - Algorithms
-    2. CS188 - AI
-    3. CS189 – Intro to ML
-    4. CS162 - OS
-    5. CS161 - Security
-    6. CS294 – Deep RL
-    7. CS287 – Advanced Robotics
-    8. CS61C – Machine Structures
-    9. EE127 – Convex Optimization
-    10. E157AC -
-    11. HSS -
-    12. EE16B – Designing Information Devices and Systems II
-    13. MATH53 – Multivariable Calculus
-    14. PHYSICS7B – E and M
-    15. EE106A
-    16. EE106B
-    17. EE192 - Mechatronics
-    18. EE128 – Feedback Control
-    19. STAT134 – Continuous Probability
-    20. STAT150 – Stochastic Processes
-    21. STAT155 – Game Theory
-    22. CS152 – Computer Architecture
-    23. CS168 – Networking and Internet Protocols
-    24. CS191 – Quantum Computing
-    25. STAT281A* - Statistical Machine Learning
-    26. STAT281B* - Statistical ML
+  1. CS170 - Algorithms
+  2. CS188 - AI
+  3. CS189 – Intro to ML
+  4. CS162 - OS
+  5. CS161 - Security
+  6. CS294 – Deep RL
+  7. CS287 – Advanced Robotics
+  8. CS61C – Machine Structures
+  9. EE127 – Convex Optimization
+  10. E157AC -
+  11. HSS -
+  12. EE16B – Designing Information Devices and Systems II
+  13. MATH53 – Multivariable Calculus
+  14. PHYSICS7B – E and M
+  15. EE106A
+  16. EE106B
+  17. EE192 - Mechatronics
+  18. EE128 – Feedback Control
+  19. STAT134 – Continuous Probability
+  20. STAT150 – Stochastic Processes
+  21. STAT155 – Game Theory
+  22. CS152 – Computer Architecture
+  23. CS168 – Networking and Internet Protocols
+  24. CS191 – Quantum Computing
+  25. STAT281A* - Statistical Machine Learning
+  26. STAT281B* - Statistical ML
 
 * = optional
 
@@ -225,32 +223,32 @@ classes but with four techs per semester ill be fine :)
 
 the other option is as follows:
 
-    1. CS170 - Algorithms
-    2. CS188 - AI
-    3. CS189 – Intro to ML
-    4. CS162 - OS
-    5. CS161 - Security
-    6. CS294 – Deep RL
-    7. CS287 – Advanced Robotics
-    8. CS61C – Machine Structures
-    9. EE127 – Convex Optimization
-    10. E157AC -
-    11. HSS -
-    12. EE16B – Designing Information Devices and Systems II
-    13. MATH53 – Multivariable Calculus
-    14. PHYSICS7B – E and M
-    15. MATH110 – Advanced Linear Algebra
-    16. MATH104
-    17. MATH105
-    18. MATH128
-    19. PHYSICS7C
-    20. STAT134
-    21. SOME MATH COURSE
-    22. SOME STATS COURSE
-    23. STAT150
-    24. CS192
-    25. CS168*
-    26. CS152*
+  1. CS170 - Algorithms
+  2. CS188 - AI
+  3. CS189 – Intro to ML
+  4. CS162 - OS
+  5. CS161 - Security
+  6. CS294 – Deep RL
+  7. CS287 – Advanced Robotics
+  8. CS61C – Machine Structures
+  9. EE127 – Convex Optimization
+  10. E157AC -
+  11. HSS -
+  12. EE16B – Designing Information Devices and Systems II
+  13. MATH53 – Multivariable Calculus
+  14. PHYSICS7B – E and M
+  15. MATH110 – Advanced Linear Algebra
+  16. MATH104
+  17. MATH105
+  18. MATH128
+  19. PHYSICS7C
+  20. STAT134
+  21. SOME MATH COURSE
+  22. SOME STATS COURSE
+  23. STAT150
+  24. CS192
+  25. CS168*
+  26. CS152*
 
 This would be a double major with engineering math and stats.
 
@@ -423,10 +421,10 @@ yes
 Hi, this question is directed towards Professor Sahai. I have seen posts that
 mention the course will involve a mastery of the concepts from 16AB, 70 and
 53. I think I have taken 70, 53 but not the 16AB series. I am very confident
-   in my linear algebra skills (taking math 110 currently). I was wondering if I
-   should go over the material from 16AB and what specific material in order to
-   prepare for 189. If not, is there any other material I should prepare before I
-   take the class?
+in my linear algebra skills (taking math 110 currently). I was wondering if I
+should go over the material from 16AB and what specific material in order to
+prepare for 189. If not, is there any other material I should prepare before I
+take the class?
 
 ### Anant Sahai's answer
 **@ Anant Sahai**
@@ -731,8 +729,8 @@ two courses.
 I am a CS/Applied Math double major, but I am considering adding/switching to
 the new Data Science major once it is approved. I did reasonably well in CS
 70. I am more inclined towards STAT 140, because I know that professor
-   Adhikari is awesome (I have taken Data 8 with her), but STAT 140 next semester
-   conflicts with CS 188 (which I also intend to take), so I am not sure.
+Adhikari is awesome (I have taken Data 8 with her), but STAT 140 next semester
+conflicts with CS 188 (which I also intend to take), so I am not sure.
 
 ### Anant Sahai's answer
 Students who have taken 70 are strongly encouraged to take 126. This is the
@@ -1091,7 +1089,7 @@ mathematical maturity IMO.
 
 2017-09-07
 Hello all!  
-
+  
 I am currently taking CS162 and I am very worried about the class - it's only
 been 3 lectures in, and I am confused already. I am not very good at low-level
 programming concepts and I hated 61C. I enjoy theoretical computer science
@@ -1505,7 +1503,7 @@ what's right for anyone to take without knowing the student's context.
 
   
 
-
+  
 ### Followup:
 Student:
 Yeah I've heard that 54+16B is an option but I've never worked with circuits
@@ -1657,16 +1655,16 @@ Python is a small difference.
 
 Stat 154 can't lean on the entire EECS Lower Division, but it can lean on Stat
 134. This results in many differences. Stat 154 is also solidly an
-    undergraduate course while 189 is also the entry-level graduate course 289A,
-    and is hence arguably a few shades faster and more advanced. Basically, 189
-    goes further and has less review in it. The revised 189 has more conceptual
-    alignments with 154 in terms of the order in which we teach things, but 189
-    goes faster and has harder homework. As a result, 189 will cover many things
-    this semester that won't be touched upon in 154 --- most notably more material
-    connected to neural nets. 154 seems to be more welcoming as a potential entry-
-    level upper-division course overall in its structure, while 189 really needs
-    students to have a level of maturity beyond what the lower-division provides.
-    There are some other topics in which 154 goes into more depth.
+undergraduate course while 189 is also the entry-level graduate course 289A,
+and is hence arguably a few shades faster and more advanced. Basically, 189
+goes further and has less review in it. The revised 189 has more conceptual
+alignments with 154 in terms of the order in which we teach things, but 189
+goes faster and has harder homework. As a result, 189 will cover many things
+this semester that won't be touched upon in 154 --- most notably more material
+connected to neural nets. 154 seems to be more welcoming as a potential entry-
+level upper-division course overall in its structure, while 189 really needs
+students to have a level of maturity beyond what the lower-division provides.
+There are some other topics in which 154 goes into more depth.
 
 ## How useful is lecture for C106A (robotics)?
 
@@ -1777,9 +1775,9 @@ all over now....."
 Advice about taking Physics courses has three different intended benefits,
 relative to a hypothetical plain "computer science or math" major.
 
-    1. Physics training boosts your generic ability to think. The traditional foundation of an engineering education, good physics courses just make you stronger.
-    2. Physics training helps in modeling problems and in seeing where mathematical definitions are coming from, and helps refine a physical/mathematical intuition. In the Berkeley context, one of the reasons that we now recommend the EE16AB series to all incoming freshmen in EECS and intended CS is for hitting both (1) and (2) above. Most places have nothing like this for vanilla CS degrees. 
-    3. More advanced topics in Physics like upper-division courses in classical mechanics as well as statistical mechanics bring in the connection to optimization and minimization principles. Upper-division electromagnetism courses also help one internalize the idea of dropping terms and trying to zoom in on the quantitative essence of a problem. There is a reason that EE16AB have an optimization thread running through them, but as freshmen courses, they cannot exercise the skills involved in aggressively dropping terms and caricaturing problems. (EE105 does that in the context of circuit theory.)
+  1. Physics training boosts your generic ability to think. The traditional foundation of an engineering education, good physics courses just make you stronger.
+  2. Physics training helps in modeling problems and in seeing where mathematical definitions are coming from, and helps refine a physical/mathematical intuition. In the Berkeley context, one of the reasons that we now recommend the EE16AB series to all incoming freshmen in EECS and intended CS is for hitting both (1) and (2) above. Most places have nothing like this for vanilla CS degrees. 
+  3. More advanced topics in Physics like upper-division courses in classical mechanics as well as statistical mechanics bring in the connection to optimization and minimization principles. Upper-division electromagnetism courses also help one internalize the idea of dropping terms and trying to zoom in on the quantitative essence of a problem. There is a reason that EE16AB have an optimization thread running through them, but as freshmen courses, they cannot exercise the skills involved in aggressively dropping terms and caricaturing problems. (EE105 does that in the context of circuit theory.)
 
 So, in the Berkeley context, if you're interested in AI/ML, remember the core
 courses from our department: 16A, 16B, 70, 126, 127, 189. Ideally taken in
@@ -2604,9 +2602,9 @@ Every instructor has their own perspective on how those without prereqs should
 act. I know that mine is pretty simple. If anyone wants to take a course
 without having had a prereq,
 
-    1. They should agree that they will not ask questions in class or lab or discussion without having had a private conversation beforehand with the TA and/or Prof to make sure that the source of their question isn't indeed coming from a subtle or not-so-subtle gap in their background. 
-    2. They should further agree not to take a slot in office hours unless nobody else is waiting. For the same reason above. Piazza should be viewed as a kind of office hours in this regard. In email, they should say "only answer if you have the time."
-    3. They should disclose this fact early to any study group that they might be considering being a part of. 
+  1. They should agree that they will not ask questions in class or lab or discussion without having had a private conversation beforehand with the TA and/or Prof to make sure that the source of their question isn't indeed coming from a subtle or not-so-subtle gap in their background. 
+  2. They should further agree not to take a slot in office hours unless nobody else is waiting. For the same reason above. Piazza should be viewed as a kind of office hours in this regard. In email, they should say "only answer if you have the time."
+  3. They should disclose this fact early to any study group that they might be considering being a part of. 
 
 Basically, someone without the prereqs shouldn't inadvertently cause a burden
 on others including course staff, and should err on the side of caution in
@@ -3581,7 +3579,7 @@ permissible to skip CS70 if I have a lot of relevant experience doing well in
 courses that cover similar/identical material (Math 55, Stat 134, other upper
 div math courses, pursuing a major in math or stats....) Is there a process
 for approving or clearing this for a CS minor?  
-
+  
 Thanks for your assistance!
 
 ### Anant Sahai's answer
@@ -3847,7 +3845,7 @@ Student:
 Hi Garrett - thank you for taking the time to answer my question! (And also
 many thanks for creating the guide PDF)
 
-
+  
 I had taken note of your disclaimer on Page 1, which is why I am hoping to
 learn from the EE/CS community what they feel are useful concepts to study
 that may not be mentioned in the guide. I also recognize the guide serves only
@@ -4668,7 +4666,7 @@ that would be essential for CS majors when taking classes in the future
 
 If this is a concern, students should be offered the option of taking Math 54
 + Math 110 instead of Math 54 + EE 16A since Math 110 also imposes a higher
-  understanding of linear algebra.
+understanding of linear algebra.
 
 I argue that EE 16A should either be entirely removed as a L&S CS major
 requirement or, as mentioned in my last point, should be
@@ -4897,7 +4895,7 @@ thermodynamics unit,
 phasing out EE 16A,
 
 and keeping EE 16B as is.  
-
+  
 In this scenario, the unit requirement for EECS students will drop, and that
 of L&S CS students will stay the same (as they are not required to take
 Physics currently, resulting in the new E&M class replacing the units vacated
@@ -5149,7 +5147,7 @@ then leads a discussion of the paper's ideas in class. Although not all of the
 lectures are online, the professor does upload a rough outline of what he
 intends to talk about in class, basically in a txt file containing the
 pertinent questions he wants the class to talk about.  
-
+  
 In the cases where the lecture videos aren't available, I've often found
 myself confused by the questions listed, and wonder how and why the professor
 seems to be able to pick up on minute details/edge cases and is able to ask
@@ -6133,7 +6131,7 @@ identical. Even the most "woke" among us can suffer from implicit biases based
 on gender/race/accent/dress/etc. that we must constantly challenge and put
 into question when interacting with others, especially during faculty
 interviewing processes.  
-
+  
 I am nearing the end of my PhD here at Berkeley, preparing to enter the
 Silicon Valley work force. I am also a petite female. When I walk into any
 sort of professional situation with new people, I know that the first thing
@@ -6602,8 +6600,8 @@ Student:
 That is not happening in 99% of tech companies. There are ways to improve
 diversity without diluting talent.
 
-
-​    
+    
+    
     Instead of harassing Asians in tech based on their skin color why don't you help these underrepresented groups too? 
 
 Because we are not in construction or teaching or law. We are in tech. This
@@ -7063,10 +7061,10 @@ Student:
 ### Followup:
 Student:
 Several thoughts @ latest anon:  
-
+  
 
 > Sure, you might get to argue the merits of Aristotle's vs Kant's views of
-> morality...
+morality...
 
 It doesn't seem like you've taken an ethics course! Engineering ethics aren't
 frequently taught in abstract utilitarianism/deontology debates (especially
@@ -7095,7 +7093,7 @@ violations of ethical standards in STEM indicate otherwise
 Whatever "good" means, that is.
 
 > If that was the case, politicians across America would be scrambling to
-> offer this magic solution to their criminals.
+offer this magic solution to their criminals.
 
 This is a red herring. Ethics classes exist to make engineering students more
 ethical engineers; if whatever "criminals" you're referring to are engineering
@@ -7112,7 +7110,7 @@ the various violations of engineering ethics that have been and continue to be
 commissioned by a number of governments.
 
 > You want more ethical people, I get it, but my point is forcing someone to
-> take a ethics class defeats the point.
+take a ethics class defeats the point.
 
 Yes, it is good when people are ethical. Is your argument that exposing people
 to ethics will cause them to be unethical? That it'll have no impact on their
@@ -7189,7 +7187,7 @@ Specific programs give people a place to share and grow and hopefully include
 support without the discomfort of needing to explain to others the struggles
 they've encountered. For example, while I would to teach CS at many of them,
 my presence would be an active distraction for many of the students.  
-
+  
 If as a society, we segregated ourselves all the time, in every way, then
 you're right that'd we probably be in a worse position overall. But programs
 that address a specific group aren't designed to replace people's interaction
@@ -7266,7 +7264,7 @@ this, is that getting accommodations can be excessively difficult. It took
 nearly a year (and letters and phone calls from my parents to many people at
 the College Board) to get approved, and they still eff'd up my SATs and AP
 tests many times.  
-
+  
 So, the consequences of these actions are real. To me, the solution is that if
 you find someone is lying or cheating, you punish them. When it comes to race
 (and even more so, gender identity) is can be difficult and touchy to verify,
@@ -7287,7 +7285,7 @@ that we have to adjust the process to lower the stakes. I read that the
 average American now has 10 jobs before they're 40. This hopefully means that
 landing in the wrong first job won't be such a deal. It's part education and
 part process change that I think can ultimately solve the problems.  
-
+  
 On programs that are only for a certain race or group:  
 I don't personally have strong feelings about these overall. My personal
 belief is that the more we interact with others not like us, the more we will
@@ -7319,7 +7317,7 @@ can claim this is natural, and to an extent you’d be right. However, what’s
 not natural are the extreme gender and racial imbalances in our program (and
 others). What’s not natural, is recognizing that discrimination exists, but
 ignoring to do anything about it.  
-
+  
 What’s different about the issues now, is that there are a critical mass of a
 bunch of different marginalized groups. Keep in mind that not everyone at
 these town halls and social hours is experiencing the same struggles and
@@ -8306,7 +8304,7 @@ because there's only so many things that they can test, so once you find that
 common thread, tests become that much easier. As for the answer key, I like
 having immediate feedback, especially since one question doesn't really help
 or hinder the next, but I can see how individual preferences might vary.  
-
+  
 Best of luck!
 
 ### Followup:
@@ -8633,9 +8631,9 @@ this happen, and I do believe it will be in place by the time you graduate. To
 give a bit more detail, for the EECS degree requirements, we are currently
 working on getting approval to have Math 110 serve as a substitute for Math
 54. Longer term, we are considering expanding flexibility further to make it
-   so that if you have taken EE16A/B, you can take any upper div. math course, or
-   "math equivalent" upper-div. courses like EE126, EE127, or CS174. (This latter
-   idea is still very early however, so please don't count on it just yet.)
+so that if you have taken EE16A/B, you can take any upper div. math course, or
+"math equivalent" upper-div. courses like EE126, EE127, or CS174. (This latter
+idea is still very early however, so please don't count on it just yet.)
 
 To give some more general advice/summarize, if you feel like you have gotten a
 good grasp on linear algebra from 16A/B, there shouldn't be any need for you
@@ -8785,10 +8783,10 @@ Here are some responses from our EE faculty:
 
 Randstat has a nice analysis of the perks of EE jobs; EE was one of their "hot
 jobs" for 2015.  
-
+  
 The numbers are here: <https://www.randstadusa.com/workforce360/jobs-the-
 economy/engineering-jobs-in-demand-for-2015/255/>  
-
+  
 Salient points:  
 \- geographic supply and demand imbalance: too many EE's in some places and
 too few in others  
@@ -8806,7 +8804,7 @@ Engineer had the highest annual increase at >8%
 eggs  
 \- Our Ph.d.'s have no trouble finding very high paying jobs. There are always
 more internships than students available at Berkeley.  
-
+  
 
 ### Followup:
 Student:
